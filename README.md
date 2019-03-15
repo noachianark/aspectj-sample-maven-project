@@ -1,9 +1,9 @@
-# AspectJ Sample Maven Project
+# AspectJ Sample Maven Project without Spring configuration or dependency
 ### AspectJ
 AspectJ is an aspect-oriented programming (AOP) extension created at PARC for the Java programming language. It is available in Eclipse Foundation open-source projects, both stand-alone and integrated into Eclipse. AspectJ has become a widely used de facto standard for AOP by emphasizing simplicity and usability for end users. It uses Java-like syntax, and included IDE integrations for displaying crosscutting structure since its initial public release in 2001.
 
 ### About
-This project is an sample maven project about how to integrate an AspectJ use intelliJ idea
+This project is an sample maven project about how to integrate an AspectJ use intelliJ idea, without spring boot or spring mvc, just pure maven project.
 
 ### Notice
 1. add dependency
