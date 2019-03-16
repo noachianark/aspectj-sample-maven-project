@@ -103,3 +103,15 @@ public class App {
     }
 }
 ```
+
+4. Reuslt 
+```text
+Connected to the target VM, address: '127.0.0.1:50037', transport: 'socket'
+App say
+[INFO ] 2019-03-16 11:06:04,025 method:com.ddtech.aspectj.App.say_aroundBody1$advice(App.java:28)
+cost time:1001
+Disconnected from the target VM, address: '127.0.0.1:50037', transport: 'socket'
+
+Process finished with exit code 0
+
+```
