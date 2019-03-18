@@ -25,7 +25,7 @@ public class AnnoAspect {
         }
         finally {
             Long end = System.currentTimeMillis();
-            logger.info("cost time:"+(end - start));
+            logger.info("Cost Time :"+(end - start));
         }
         return returnObject;
     }
